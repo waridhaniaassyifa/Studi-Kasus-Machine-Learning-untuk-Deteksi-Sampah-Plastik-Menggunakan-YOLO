@@ -2,7 +2,7 @@
 
 ## 1. Deskripsi Proyek
 
-Proyek ini merupakan studi kasus Machine Learning di bidang *Computer Vision* yang bertujuan untuk mendeteksi dan mengidentifikasi jenis sampah secara otomatis melalui gambar menggunakan model YOLO (*You Only Look Once*).
+Proyek ini dibuat sebagai studi kasus pembelajaran berdasarkan materi “Introduction to Machine Learning” oleh Taniza Tajudin, dibidang Machine Learning tentang *Computer Vision* yang bertujuan untuk mendeteksi dan mengidentifikasi jenis sampah secara otomatis melalui gambar menggunakan model YOLO (*You Only Look Once*).
 
 Sistem memanfaatkan model deteksi objek yang telah dilatih (*pre-trained/fine-tuned model*) untuk mengenali beberapa kategori sampah, seperti botol plastik, kantong plastik, kaca, kertas, dan kaleng. Pengguna dapat menguji model menggunakan gambar sendiri maupun gambar yang tersedia dalam dataset.
 
